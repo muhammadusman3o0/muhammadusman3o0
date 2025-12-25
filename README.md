@@ -6,7 +6,7 @@ With over 6 years of experience in web development, I’m passionate about build
 
 📍 Faisalabad, Punjab, Pakistan  
 📧 [mianmuhmmadusman@gmail.com](mailto:mianmuhmmadusman@gmail.com)  
-🌐 [Portfolio](https://mianmuhammadusman.vercel.app/)  
+🌐 [Portfolio](https://usman3o0.vercel.app/)  
 
 ---
 
