@@ -1,67 +1,106 @@
-# 👋 Hello, I'm Muhammad Usman!
+# 👋 Hi, I'm Mian Muhammad Usman
 
-### 🌐 Full Stack Web Developer
+## 🤖 AI-Focused Senior Full Stack Developer
 
-With over 6 years of experience in web development, I’m passionate about building impactful web applications and tools. I enjoy exploring and integrating new technologies into my projects, which has allowed me to stay at the forefront of the industry. I've worked with a variety of corporations, developing solutions that solve real-world problems. Staying updated on the latest tech trends is my priority, driving me to innovate continually.
+AI-focused Senior Full Stack Developer with **5+ years of experience** building **scalable, cloud-native, and AI-powered web applications** for enterprise and global clients.  
+Specialized in **LLM integration, AI agents, RAG pipelines, and multi-tenant architectures** using **React, Next.js, Node.js, and AWS**.
 
-📍 Faisalabad, Punjab, Pakistan  
+🌍 Worked with teams across **UK, Qatar, and the Middle East**  
+🏢 Delivered solutions for **government, energy, and enterprise clients**
+
+📍 Faisalabad, Pakistan  
 📧 [mianmuhmmadusman@gmail.com](mailto:mianmuhmmadusman@gmail.com)  
-🌐 [Portfolio](https://usman3o0.vercel.app/)  
+🌐 [Portfolio](https://usman3o0.vercel.app)
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🚀 Tech Stack
 
-- **Frontend:** React, JavaScript
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL, MongoDB
-- **DevOps:** CICD pipelines, team management
-- **Frameworks/Libraries:** Tailwind CSS, Next.js, Puppeteer
-- **Other:** GraphQL, SEO, Digital Marketing, Web 3 integration
+### 🧠 AI & Machine Learning
+![LLM](https://img.shields.io/badge/LLMs-Integration-blue)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-orange)
+![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
+![NLP](https://img.shields.io/badge/NLP-Chatbots-green)
 
----
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-18-blue)
+![Next.js](https://img.shields.io/badge/Next.js-SSR-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strong-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Utility-teal)
 
-### 💼 Professional Experience
+### 🧩 Backend
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express.js-API-lightgrey)
+![NestJS](https://img.shields.io/badge/NestJS-Scalable-red)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-pink)
 
-- **Techling**  
-  _Lead Developer (2024 - Current)_  
-  Leading development of websites and internal CMS dashboards, managing team workflow, assigning tasks, and overseeing design and development.
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
+![Redis](https://img.shields.io/badge/Redis-Cache-red)
 
-- **Bryxo**  
-  _Lead Developer (2022 - 2024)_  
-  Focused on front-end and backend development for client and internal projects.
-
-- **SmartnHub**  
-  _Full-stack Web Developer (2020 - 2021)_  
-  Managed project assignment for trainees and handled company projects across departments.
-
-- **WAPEXP**  
-  _Front-end Intern (2018 - 2020)_  
-  Gained foundational experience in front-end development, SEO, and digital marketing.
-
----
-
-### 🌟 Featured Projects
-
-- **NFT Creator Website**: Integrates Printful store and background remover functionality.
-- **InvoiceHub**: Invoicing tool built with Next.js, Tailwind, and Express, featuring Puppeteer for PDF generation.
-- **Web 3 Multimedia Player**: Utilizes GraphQL, Next.js, and Tailwind.
-- **Cazvid**: Video hiring and freelancing platform for talent scouting through video interviews.
-- **Deft GPT**: Multi-AI chat platform offering GPT, Claude, Gemini, and Lamma models.
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-success)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange)
 
 ---
 
-### 🎓 Education
+## 💼 Experience Snapshot
 
-- **BS in Software Engineering** (in progress), Virtual University
-- **Intermediate in Computer Science**, Punjab College (2018 - 2020)
+### 🏢 Ghaia (Qatar — Remote)
+**AI & Full Stack Developer (2025 – Present)**  
+- Enterprise AI systems for **government & energy sector**
+- AI Agents, MCPs, workflow automation
+- Performance & scalability re-architecture
+
+### 🏢 Techling
+**AI & Full Stack Developer (2024 – 2025)**  
+- Multi-tenant B2B platforms with RBAC
+- AI voice assistant using LLMs
+- AWS + Docker cloud-native services
+
+### 🏢 Bryxo (UK — Remote)
+**Full Stack Developer (2022 – 2024)**  
+- High-performance Next.js apps
+- Kubernetes migration
+- Multi-tenant CMS architecture
+
+### 🏢 WAPEXP
+**Full Stack Developer (2020 – 2022)**  
+- AI chatbots, e-commerce, video systems
+- Stripe, Twilio, Google Maps integrations
+- Monitoring with Grafana
 
 ---
 
-### 📫 Connect with Me
+## 📊 GitHub Stats
 
-I'm always open to collaboration and knowledge sharing. Feel free to reach out!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usman3o0&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usman3o0&theme=tokyonight" />
+</p>
 
 ---
 
-Thank you for visiting my profile!
+## 🧠 What I Enjoy Working On
+- 🤖 AI Agents & Autonomous Systems
+- 🔗 LLM + RAG Architectures
+- 🏗️ Scalable Full-Stack Systems
+- ☁️ Cloud-Native & DevOps Pipelines
+- 🔐 Secure, Multi-Tenant Platforms
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to:
+- 🚀 AI-driven startups
+- 🏢 Enterprise AI systems
+- 🌍 Remote full-stack roles
+- 🧠 Architecture & system design challenges
+
+⭐ If you like my work, feel free to star a repo or reach out!
