@@ -76,16 +76,6 @@ Specialized in **LLM integration, AI agents, RAG pipelines, and multi-tenant arc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usman3o0&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usman3o0&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 What I Enjoy Working On
 - 🤖 AI Agents & Autonomous Systems
 - 🔗 LLM + RAG Architectures
