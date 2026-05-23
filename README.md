@@ -14,11 +14,6 @@ Non-technical founder with a startup idea? I turn it into a live, paying product
 
 Stack: Next.js, React, TypeScript, Python, Node.js, AI/LLMs
 
-## Live proof
-
-**ScopeLock** — real-time project scoping SaaS I built and shipped:  
-Auth, Stripe billing, AI-powered scope generation → [scopelock.vercel.app](https://scopelock.vercel.app)
-
 ## What clients say
 
 > "Building a secure and compliant Bank Website is a serious task, and Quickwebs handled it flawlessly. Their attention to security protocols and enterprise-level development was exceptional."  
