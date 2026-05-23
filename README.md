@@ -1,96 +1,39 @@
-# 👋 Hi, I'm Mian Muhammad Usman
+# I build your MVP in 48 hours. Production-ready.
 
-## 🤖 AI-Focused Senior Full Stack Developer
+Non-technical founder with a startup idea? I turn it into a live, paying product — not a prototype, not a wireframe — a **real app** with auth, payments, and users.
 
-AI-focused Senior Full Stack Developer with **5+ years of experience** building **scalable, cloud-native, and AI-powered web applications** for enterprise and global clients.  
-Specialized in **LLM integration, AI agents, RAG pipelines, and multi-tenant architectures** using **React, Next.js, Node.js, and AWS**.
+**20+ apps shipped. 5 repeat clients. 0 missed deadlines.**
 
-🌍 Worked with teams across **UK, Qatar, and the Middle East**  
-🏢 Delivered solutions for **government, energy, and enterprise clients**
+## What I build
 
-📍 Faisalabad, Pakistan  
-📧 [mianmuhmmadusman@gmail.com](mailto:mianmuhmmadusman@gmail.com)  
-🌐 [Portfolio](https://usman3o0.vercel.app)
+- **SaaS platforms** — dashboards, subscriptions, AI features
+- **Fintech & banking** — secure, compliant, enterprise-grade
+- **Marketplaces & e-commerce** — Stripe, inventory, multi-vendor
+- **AI-powered tools** — LLM integrations, RAG pipelines, agents
+- **Mobile-first apps** — PWAs and native-feel experiences
 
----
+Stack: Next.js, React, TypeScript, Python, Node.js, AI/LLMs
 
-## 🚀 Tech Stack
+## Live proof
 
-### 🧠 AI & Machine Learning
-![LLM](https://img.shields.io/badge/LLMs-Integration-blue)
-![LangChain](https://img.shields.io/badge/LangChain-RAG-orange)
-![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
-![NLP](https://img.shields.io/badge/NLP-Chatbots-green)
+**ScopeLock** — real-time project scoping SaaS I built and shipped:  
+Auth, Stripe billing, AI-powered scope generation → [scopelock.vercel.app](https://scopelock.vercel.app)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-18-blue)
-![Next.js](https://img.shields.io/badge/Next.js-SSR-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strong-blue)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-Utility-teal)
+## What clients say
 
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Express](https://img.shields.io/badge/Express.js-API-lightgrey)
-![NestJS](https://img.shields.io/badge/NestJS-Scalable-red)
-![GraphQL](https://img.shields.io/badge/GraphQL-API-pink)
+> "Building a secure and compliant Bank Website is a serious task, and Quickwebs handled it flawlessly. Their attention to security protocols and enterprise-level development was exceptional."  
+> — **CK Sr, Imperial Capital**
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
-![Redis](https://img.shields.io/badge/Redis-Cache-red)
+> "Resulting in a 45% increase in lead generation within the first 30 days."  
+> — **Al Rayan**
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-success)
-![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange)
+> "Thank you so much for working so quickly on my project! The results are great. Well worth it and would highly recommend!"  
+> — **Popylilly**
 
----
+## Work with me
 
-## 💼 Experience Snapshot
+I run **QuickWebs** (UK registered) and work with founders globally — UK, Qatar, Middle East, and beyond.
 
-### 🏢 Ghaia (Qatar — Remote)
-**AI & Full Stack Developer (2025 – Present)**  
-- Enterprise AI systems for **government & energy sector**
-- AI Agents, MCPs, workflow automation
-- Performance & scalability re-architecture
+🗓 **Ready to ship?** [Book a 30-min call](https://calendly.com/quickwebs-app/30min)
 
-### 🏢 Techling
-**AI & Full Stack Developer (2024 – 2025)**  
-- Multi-tenant B2B platforms with RBAC
-- AI voice assistant using LLMs
-- AWS + Docker cloud-native services
-
-### 🏢 Bryxo (UK — Remote)
-**Full Stack Developer (2022 – 2024)**  
-- High-performance Next.js apps
-- Kubernetes migration
-- Multi-tenant CMS architecture
-
-### 🏢 WAPEXP
-**Full Stack Developer (2020 – 2022)**  
-- AI chatbots, e-commerce, video systems
-- Stripe, Twilio, Google Maps integrations
-- Monitoring with Grafana
-
----
-
-## 🧠 What I Enjoy Working On
-- 🤖 AI Agents & Autonomous Systems
-- 🔗 LLM + RAG Architectures
-- 🏗️ Scalable Full-Stack Systems
-- ☁️ Cloud-Native & DevOps Pipelines
-- 🔐 Secure, Multi-Tenant Platforms
-
----
-
-## 🤝 Let’s Connect
-
-I’m open to:
-- 🚀 AI-driven startups
-- 🏢 Enterprise AI systems
-- 🌍 Remote full-stack roles
-- 🧠 Architecture & system design challenges
-
-⭐ If you like my work, feel free to star a repo or reach out!
+🌐 [Portfolio](https://usman3o0.vercel.app) · [LinkedIn](https://linkedin.com/in/mianmuhammadusman) · [X](https://x.com/andy__3o0)
