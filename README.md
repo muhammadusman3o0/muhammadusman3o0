@@ -34,6 +34,6 @@ Auth, Stripe billing, AI-powered scope generation → [scopelock.vercel.app](htt
 
 I run **QuickWebs** (UK registered) and work with founders globally — UK, Qatar, Middle East, and beyond.
 
-🗓 **Ready to ship?** [Book a 30-min call](https://calendly.com/quickwebs-app/30min)
+🗓 **Ready to ship?** [Book a 30-min call](https://calendly.com/mianmuhmmadusman/30min)
 
 🌐 [Portfolio](https://usman3o0.vercel.app) · [LinkedIn](https://linkedin.com/in/mianmuhammadusman) · [X](https://x.com/andyy3o0)
