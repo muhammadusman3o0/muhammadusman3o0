@@ -23,7 +23,7 @@ Stack: Next.js, React, TypeScript, Python, Node.js, AI/LLMs
 > — **Al Rayan**
 
 > "Thank you so much for working so quickly on my project! The results are great. Well worth it and would highly recommend!"  
-> — **Popylilly**
+> — **lilly**
 
 ## Work with me
 
